@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import Scaledrone from "scaledrone-react";
-import { ScrollToBottom } from "react-scroll-to-bottom";
 import MessageList from "./Messages";
 import MessageForm from "./Input";
 
